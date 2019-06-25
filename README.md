@@ -4,4 +4,4 @@ Es un juego cooperativo en el cual dos jugadores se ayudan entre sí abriéndose
 
 
 
-![Estructura](https://github.com/nicolaslopez99/Web2py-HojaDeVida/blob/master/1.png)
+![Estructura](https://github.com/nicolaslopez99/Juego/blob/master/Sprites_Juego.pnghttps://github.com/nicolaslopez99/Juego/blob/master/Sprites_Juego.png)
