@@ -3,5 +3,5 @@ Es un juego cooperativo en el cual dos jugadores se ayudan entre sí abriéndose
 
 
 
-
+# Personajes
 ![Estructura](https://github.com/nicolaslopez99/Juego/blob/master/Sprites_Juego.png)
